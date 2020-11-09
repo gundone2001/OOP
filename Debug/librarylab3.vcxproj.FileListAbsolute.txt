@@ -1,0 +1,2 @@
+C:\Users\gundone\Desktop\lab3\librarylab3\Debug\librarylab3.lib
+C:\Users\gundone\Desktop\lab3\librarylab3\Debug\librarylab3.pdb
